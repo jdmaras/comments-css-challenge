@@ -34,13 +34,13 @@ body {
 .displayNames {
     color: black;
 }
-.replyFont {
-    justify-content: right;
+.replyWord {
+    float: right;
 }
-#plusBtn{
+.plusBtn{
     color: #C5C6EF;
 }
-#minusBtn{
+.minusBtn{
     color: #C5C6EF;
 }
 .voteNumber{
