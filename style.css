@@ -1,0 +1,48 @@
+body {
+    background: #F2F2F2;
+}
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+.attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+.whiteContainer {
+    background-color: #FFFFFF;
+    position: absolute;
+    display: flex;
+    margin-top: 64px;
+    margin-left: 100px;
+    border-radius: 8px;
+    width: 740px;
+    height: 167px;
+}
+.textInformation{
+    font-family: "Rubik";
+    color: #67727E;
+    size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.voteBox{
+    color: #F5F6FA;
+    fill: solid;
+    width: 40px;
+    height: 100px;
+}
+.displayNames {
+    color: black;
+}
+.replyFont {
+    justify-content: right;
+}
+#plusBtn{
+    color: #C5C6EF;
+}
+#minusBtn{
+    color: #C5C6EF;
+}
+.voteNumber{
+    color: #5357B6;
+}
