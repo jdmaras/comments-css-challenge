@@ -31,13 +31,17 @@ body {
   float: left;
   padding-right: 13px;
 }
+.displayTimeOfPost{
+    padding-left: 15px;
+}
 .voteBox{
     margin-left: 7px;
-    color: #F5F6FA;
+    color: #F2F2F2;
     float: left;
     fill: solid;
     width: 40px;
     height: 100px;
+    padding: 10px;
 }
 .displayNames {
     color: black;
@@ -45,11 +49,13 @@ body {
 .replyWord {
     float: right;
     margin-right: 10px;
-    
+    color: #5357B6;
+    background-color: #FFFFFF;
 }
 .plusBtn, .minusBtn{
     color: #C5C6EF;
     align-items: center;
+    
 }
 
 .voteNumber{
